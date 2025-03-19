@@ -14,23 +14,49 @@ A simple and interactive calculator built with React that supports basic arithme
 - Bootstrap (optional for enhanced UI design)  
 
 ## 📂 Project Structure
-Calculator/ │── src/ │ ├── components/ │ │ ├── AppName.jsx │ │ ├── Display.jsx │ │ ├── ButtonsContainer.jsx │ ├── assets/ │ ├── App.jsx │ ├── main.jsx │ ├── App.css │ ├── index.css │── public/ │── package.json │── README.md
+```
+Calculator/
+│── src/
+│   ├── components/
+│   │   ├── AppName.jsx
+│   │   ├── Display.jsx
+│   │   ├── ButtonsContainer.jsx
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css
+│   ├── index.css
+│── public/
+│── package.json
+│── README.md
+```
 
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```sh
    git clone https://github.com/Kailramiya/Calculator.git
+   ```
 2. Navigate into the project folder:
+   ```sh
    cd Calculator
+   ```
 3. Install dependencies:
+   ```sh
    npm install
+   ```
 4. Start the development server:
+   ```sh
    npm run dev
+   ```
 
-   
-🎮 Usage
-Click the number and operator buttons to input calculations.
-Press = to compute the result.
-Use C to clear the display and start a new calculation.
-   
-     
+## 🎮 Usage
+- Click the number and operator buttons to input calculations.  
+- Press `=` to compute the result.  
+- Use `C` to clear the display and start a new calculation.  
+
+
+
+---
+Feel free to contribute and enhance this project! 😊  
+Aman Kumar
+Officialamankundu@gmail.com
