@@ -1,0 +1,10 @@
+.display{
+  border-style: solid;
+  border-radius: 5px;
+  width: 175px;
+  font-size: 25px;
+  margin: 22px;
+  border-width: 1.5px;
+  display: flex;
+  align-self: center;
+}
