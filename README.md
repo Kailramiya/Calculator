@@ -23,19 +23,19 @@ Bootstrap (optional for styling enhancements)
 📂 Project Structure
 
 Calculator/
-│── src/
-│   ├── components/
-│   │   ├── AppName.jsx
-│   │   ├── Display.jsx
-│   │   ├── ButtonsContainer.jsx
-│   ├── assets/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── App.css
-│   ├── index.css
-│── public/
-│── package.json
-│── README.md
+│── src/<br>
+│   ├── components/<br>
+│   │   ├── AppName.jsx<br>
+│   │   ├── Display.jsx<br>
+│   │   ├── ButtonsContainer.jsx<br>
+│   ├── assets/<br>
+│   ├── App.jsx<br>
+│   ├── main.jsx<br>
+│   ├── App.css<br>
+│   ├── index.css<br>
+│── public/<br>
+│── package.json<br>
+│── README.md<br>
 
 🔧 Installation & Setup
 
